@@ -27,8 +27,4 @@ I'm a researcher, mostly interested in applications for quantitative finance.
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
-</a>
-
 | &nbsp;&nbsp;&nbsp;  [Website](https://rzimmerdev.github.io) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Main Projects : [dxlib](https://dxlib.org)<sub>⚡</sub> [dxforge](https://github.com/divergex/dxforge)<sub>⛏</sub>
