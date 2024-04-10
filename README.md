@@ -7,8 +7,7 @@ I'm a researcher, mostly interested in applications for quantitative finance.
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=lang&color=36465D&logoColor=AAA&style=flat-square)
 ![pytorch](https://img.shields.io/static/v1?logo=pytorch&label=&message=PyTorch&color=36465D&logoColor=AAA&style=flat-square)
-![cuda](https://img.shields.io/static/v1?logo=nvidia&label=&message=Cuda&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
+![cuda](https://img.shields.io/static/v1?logo=nvidia&label=&message=Cuda&color=36465D&logoColor=AAA&style=flat-square)&nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
