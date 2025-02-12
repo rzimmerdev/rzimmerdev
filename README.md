@@ -23,7 +23,7 @@ I'm a researcher, mostly interested in applications for quantitative finance.
 ----
 
 <a href="https://linkedin.com/in/rzimmerdev">
-  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="LinkedIn" width="20px" src="[https://simpleicons.now.sh/linkedin/495f7e](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tOrs3vTGPNgx_tpb8daohHzWBCLvV7rB2i1gzWM)" />
 </a>
 
 | &nbsp;&nbsp;&nbsp;  [Website](https://rzimmerdev.github.io) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Main Projects - [⚡dxlib](https://github.com/divergex/dxlib) & [⛏dxforge](https://github.com/divergex/dxforge)
