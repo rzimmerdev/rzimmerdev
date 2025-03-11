@@ -1,11 +1,11 @@
-### Hi there&nbsp;&nbsp;<sup>:)</sup>
-----
+### Hi there&nbsp;&nbsp;<sup>:)</sup>  
+
 I'm a researcher, mostly interested in applications for quantitative finance.
 
 **Researcher in Quantitative Finance** &#12299;_implementing market making strategies and optimal control solutions using RL_
 <br/>
 **Open Source Developer** &#12299;_Open Source distributed computing for quantitative trading_
-![](https://komarev.com/ghpvc/?username=rzimmerdev&abbreviated=true)
+
 ----
 
 
@@ -21,4 +21,5 @@ I'm a researcher, mostly interested in applications for quantitative finance.
 ![ray](https://img.shields.io/static/v1?logo=ray&label=&message=ray&color=36465D&logoColor=AAA&style)
 &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;  [Website](https://rzimmerdev.github.io) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Projects - [⚡ dxlib](https://github.com/divergex/dxlib) & [⚒️ dxforge](https://github.com/divergex/dxforge)
+[Website](https://rzimmerdev.github.io) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Projects - [⚡ dxlib](https://github.com/divergex/dxlib) & [⚒️ dxforge](https://github.com/divergex/dxforge)
+
