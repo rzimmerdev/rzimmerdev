@@ -2,9 +2,9 @@
 
 I'm a researcher, mostly interested in applications for quantitative finance.
 
-**Researcher in Quantitative Finance** &#12299;_implementing market making strategies and optimal control solutions using RL_
+**Researcher in Quantitative Finance** >> _implementing market making strategies and optimal control solutions using RL_
 <br/>
-**Open Source Developer** &#12299;_Open Source distributed computing for quantitative trading_
+**Open Source Developer** >> _Open Source distributed computing for quantitative trading_
 
 ----
 
