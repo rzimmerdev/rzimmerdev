@@ -1,12 +1,14 @@
 ### Hi there&nbsp;&nbsp;<sup>:)</sup>
 
-I'm a researcher, mostly interested in applications for quantitative finance.
+I'm a researcher working on stochastic analysis, dynamical systems theory, & reinforcement learning.  
+Interested in applications in quantitative finance.
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![c](https://img.shields.io/static/v1?logo=c&label=&message=lang&color=36465D&logoColor=AAA&style=flat-square)
+![langs](https://img.shields.io/static/v1?label=&message=langs:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=36465D&logoColor=AAA&style=flat-square)
+![lean](https://img.shields.io/static/v1?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDI1Nikgc2NhbGUoMC4xLC0wLjEpIiBmaWxsPSIjQUFBQUFBIiBzdHJva2U9Im5vbmUiPjxwYXRoIGQ9Ik0yNDIgMjM1MCBjLTE4IC0xMSAtMzcgLTMyIC00MiAtNDYgLTYgLTE1IC0xMCAtMjM1IC0xMCAtNTU1IGwwIC01MjkgMTI0IC0yNzMgYzI1NCAtNTYxIDMzMSAtNzIwIDM1MyAtNzM0IDUzIC0zNSAxNTcgLTI0IDE4NSAyMCA4IDEyIDEwMiAyMDIgMjA5IDQyMiBsMTk0IDM5OSA1IC00MDIgNSAtNDAyIDI2IC0yNiBjNDggLTQ4IDE2OSAtMzkgMTk2IDE0IDQgOSAxMCAxNjcgMTMgMzUwIGw1IDMzMyAyOTAgLTMxMiBjMTYwIC0xNzEgMzExIC0zMzMgMzM2IC0zNjAgNDUgLTQ5IDQ1IC00OSAxMTAgLTQ5IDcyIDAgMTAwIDEzIDExOCA1NyA4IDIxIDExIDI5MyA5IDEwNDAgbC0zIDEwMTMgLTI4IDI3IC0yNyAyOCAtNDk1IDAgLTQ5NSAwIC0yNyAtMjggYy0yNCAtMjQgLTI4IC0zNSAtMjggLTg4IDAgLTU0IDMgLTYzIDI4IC04NSBsMjggLTI0IDQwNSAwIDQwNCAwIDAgLTExMCAwIC0xMTAgLTQwNCAwIC00MDUgMCAtMjcgLTIzIGMtMjAgLTE4IC0yOCAtMzQgLTMxIC03MyAtNSAtNjEgMTEgLTkzIDU3IC0xMTYgMzIgLTE2IDc0IC0xOCA0MjMgLTE4IGwzODcgMCAwIC0xMDUgMCAtMTA1IC04NTAgMCAtODUwIDAgMCA0MDUgYzAgMjgxIC0zIDQxMiAtMTEgNDI5IC0yNCA1MyAtMTE4IDcyIC0xNzcgMzZ6IG04MjggLTExMDUgYzAgLTMgLTM4IC04MiAtODUgLTE3NSBsLTg1IC0xNzEgLTE0NyAzIC0xNDcgMyAtNjQgMTQwIGMtMzUgNzcgLTcwIDE1NSAtNzcgMTczIGwtMTQgMzIgMzEwIDAgYzE3MCAwIDMwOSAtMiAzMDkgLTV6IG0xMDYwIC0zMTIgYzAgLTI2NyAtMiAtMzE1IC0xNCAtMzAzIC03IDggLTEzNyAxNDkgLTI5MCAzMTIgLTE1MiAxNjMgLTI3NiAzMDAgLTI3NiAzMDMgMCAzIDEzMSA1IDI5MCA1IGwyOTAgMCAwIC0zMTd6IG0tMTM1NyAtMjk4IGMtMTkgLTM5IC0yOCAtNDQgLTM2IC0xNyAtMiA5IC04IDI1IC0xMiAzNSAtNiAxNCAtMiAxNyAyOSAxNyBsMzYgMCAtMTcgLTM1eiIvPjwvZz48L3N2Zz4K&label=&message=lean&color=36465D&style=flat-square)
 ![cuda](https://img.shields.io/static/v1?logo=nvidia&label=&message=CUDA&color=36465D&logoColor=AAA&style=flat-square)&nbsp;&nbsp;&nbsp;
 
-
-Projects [🎓 dxlib](https://github.com/divergex/dxlib) & [⚒️ dxforge](https://github.com/divergex/dxforge)
+![foss projects](https://img.shields.io/static/v1?label=&message=foss_projects:&color=111&style=flat-square) 
+[🎓 dxlib](https://github.com/divergex/dxlib) & [⚒️ dxforge](https://github.com/divergex/dxforge)
 
